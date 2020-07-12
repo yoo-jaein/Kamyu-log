@@ -1,13 +1,35 @@
 ---
 title: 'about'
-date: 2019-1-27 16:21:13
+date: 2020-7-11 15:59:20
 lang: 'en'
 ---
 
-# Your name
+<div>
 
-<div align="center">
+# 유재인
 
-_Thank you for reading my resume. If you want to contact me, Please send me an email._
+## 자기소개
+
+
+## 해외 경험
+
+
+## 동아리 경험
+
+
+## 프로젝트 1
+
+
+## 프로젝트 2
+
+
+## 프로젝트 3
+
+
+## 교육 수료
+
+
+## 수상 내역
+
 
 </div>
