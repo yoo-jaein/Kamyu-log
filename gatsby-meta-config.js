@@ -2,8 +2,8 @@ module.exports = {
   title: `Kamyu-log`,
   description: `Devlog`,
   author: `Kamyu`,
-  introduction: `공부 블로그`,
-  siteUrl: `https://kamyu.netlify.com`, // Your blog site url
+  introduction: `공부하는 사람`,
+  siteUrl: `https://kamyu.netlify.app`, // Your blog site url
   social: {
     twitter: ``, // Your Twitter account
     github: `yoo-jaein`, // Your GitHub account
@@ -26,5 +26,5 @@ module.exports = {
   share: {
     facebookAppId: '', // Add facebookAppId for using facebook share feature v3.2
   },
-  ga: '', // Add your google analytics tranking ID
+  ga: 'UA-172428055-1', // Add your google analytics tranking ID
 }
