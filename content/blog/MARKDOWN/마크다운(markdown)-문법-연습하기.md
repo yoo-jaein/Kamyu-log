@@ -1,7 +1,7 @@
 ---
 title: 마크다운(Markdown) 문법 연습하기
 date: 2020-07-14 14:07:22
-category: MARKDOWN
+category: markdown
 draft: false
 ---
 
